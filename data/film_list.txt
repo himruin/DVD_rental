@@ -1,0 +1,10 @@
+"Batman Begins";1;Blu-ray
+"Batman Begins";6;DVD
+"Kung Fu Panda";4;Blu-ray
+"Kung Fu Panda";2;DVD
+"Saw";0;Blu-ray
+"Saw";2;DVD
+"The Magnificent Seven";9;DVD
+"The Magnificent Seven";9;VHS
+"Where Eagles Dare";3;Blu-ray
+"Where Eagles Dare";2;DVD
